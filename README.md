@@ -9,6 +9,7 @@ Daily SQL practice to build data analyst skills, one topic per day.
 | 3 | COUNT, SUM, AVG, MIN, MAX, COUNT(DISTINCT) |
 | 4 | GROUP BY, HAVING |
 | 5 | INNER JOIN, JOIN + GROUP BY, GROUP BY/HAVING review |
+| 6 | INNER JOIN practice: JOIN + WHERE + GROUP BY + HAVING + ORDER BY |
 
 **Dataset:** a sample `employees` table (emp_id, name, dept, salary, city)
 **Tool:** SQLite (sqliteonline.com)
