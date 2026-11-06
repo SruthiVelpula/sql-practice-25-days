@@ -11,7 +11,7 @@ Daily SQL practice to build data analyst skills, one topic per day.
 | 5 | INNER JOIN, JOIN + GROUP BY, GROUP BY/HAVING review |
 | 6 | INNER JOIN practice: JOIN + WHERE + GROUP BY + HAVING + ORDER BY |
 | 7 | LEFT JOIN vs INNER JOIN, table order, NULLs, LEFT JOIN + WHERE + GROUP BY |
+| 8 | LeetCode SQL 50 #1-6 (NULLs, >=, DISTINCT, CHAR_LENGTH, LEFT JOIN), LEFT JOIN + COUNT + GROUP BY |
 
-
-**Dataset:** a sample `employees` table (emp_id, name, dept, salary, city)
-**Tool:** SQLite (sqliteonline.com)
+**Dataset:** sample `employees` (emp_id, name, dept, salary, city) and `departments` (dept, manager, floor) tables, plus LeetCode SQL 50 problems
+**Tools:** SQLite (sqliteonline.com), LeetCode (MySQL)
