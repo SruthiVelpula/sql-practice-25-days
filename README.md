@@ -12,6 +12,7 @@ Daily SQL practice to build data analyst skills, one topic per day.
 | 6 | INNER JOIN practice: JOIN + WHERE + GROUP BY + HAVING + ORDER BY |
 | 7 | LEFT JOIN vs INNER JOIN, table order, NULLs, LEFT JOIN + WHERE + GROUP BY |
 | 8 | LeetCode SQL 50 #1-6 (NULLs, >=, DISTINCT, CHAR_LENGTH, LEFT JOIN), LEFT JOIN + COUNT + GROUP BY |
+| 9 | SELF JOIN (table aliases, worker/boss), LEFT self join, self join + GROUP BY, LeetCode #197 Rising Temperature (DATEDIFF) |
 
-**Dataset:** sample `employees` (emp_id, name, dept, salary, city) and `departments` (dept, manager, floor) tables, plus LeetCode SQL 50 problems
+**Dataset:** sample `employees` (emp_id, name, dept, salary, city), `departments` (dept, manager, floor), and `Staff` (staff_id, name, boss_id) tables, plus LeetCode SQL 50 problems
 **Tools:** SQLite (sqliteonline.com), LeetCode (MySQL)
