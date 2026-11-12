@@ -18,6 +18,7 @@ Daily SQL practice to build data analyst skills, one topic per day.
 | 12 | LeetCode SQL 50 #1075 Project Employees I, #1211 Queries Quality and Percentage (ROUND, AVG, math in SQL, % with CASE) |
 | 13 | SUBQUERIES (one-value subquery in WHERE and in math), percentage pattern (part / whole * 100), LeetCode #1633 |
 | 14 | LeetCode #570 (self join + HAVING COUNT), revision: IN, ORDER BY + LIMIT, INNER JOIN, GROUP BY + COUNT, CASE WHEN |
+| 15 | Revision (AND/OR + brackets, HAVING, subquery in WHERE), subqueries: IN, NOT IN ("never" questions), subquery in FROM + MAX |
 
 **Dataset:** sample `employees` (emp_id, name, dept, salary, city), `departments` (dept, manager, floor), `Staff` (staff_id, name, boss_id), and LeetCode `Users`/`Register` tables, plus LeetCode SQL 50 problems
 **Tools:** SQLite (sqliteonline.com), LeetCode (MySQL)
