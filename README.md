@@ -20,6 +20,7 @@ Daily SQL practice to build data analyst skills, one topic per day.
 | 14 | LeetCode #570 (self join + HAVING COUNT), revision: IN, ORDER BY + LIMIT, INNER JOIN, GROUP BY + COUNT, CASE WHEN |
 | 15 | Revision (AND/OR + brackets, HAVING, subquery in WHERE), subqueries: IN, NOT IN ("never" questions), subquery in FROM + MAX |
 | 16 | CTEs (WITH ... AS): simple CTEs, CTE + GROUP BY, CTE + JOIN, WHERE on CTE columns; revision: IN, CASE WHEN, NOT IN; LeetCode #1978 |
+| 17 | Revision: CASE WHEN (>=, BETWEEN), CTE + AVG + WHERE on CTE column, NOT IN with CTE; LeetCode #1045 (CTE + COUNT DISTINCT + subquery) |
 
 **Dataset:** sample `employees` (emp_id, name, dept, salary, city), `departments` (dept, manager, floor), `Staff` (staff_id, name, boss_id), and LeetCode `Users`/`Register` tables, plus LeetCode SQL 50 problems
 **Tools:** SQLite (sqliteonline.com), LeetCode (MySQL)
