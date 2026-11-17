@@ -21,6 +21,7 @@ Daily SQL practice to build data analyst skills, one topic per day.
 | 15 | Revision (AND/OR + brackets, HAVING, subquery in WHERE), subqueries: IN, NOT IN ("never" questions), subquery in FROM + MAX |
 | 16 | CTEs (WITH ... AS): simple CTEs, CTE + GROUP BY, CTE + JOIN, WHERE on CTE columns; revision: IN, CASE WHEN, NOT IN; LeetCode #1978 |
 | 17 | Revision: CASE WHEN (>=, BETWEEN), CTE + AVG + WHERE on CTE column, NOT IN with CTE; LeetCode #1045 (CTE + COUNT DISTINCT + subquery) |
+| 18 | NOT IN practice: subquery across two tables (N1 course names -> ids, N2 "no one scored above 90"), IN for multiple values, bracket counting |
 
 **Dataset:** sample `employees` (emp_id, name, dept, salary, city), `departments` (dept, manager, floor), `Staff` (staff_id, name, boss_id), and LeetCode `Users`/`Register` tables, plus LeetCode SQL 50 problems
 **Tools:** SQLite (sqliteonline.com), LeetCode (MySQL)
